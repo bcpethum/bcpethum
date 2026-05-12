@@ -30,23 +30,23 @@
 
 ## 📊 GitHub Stats
 
-![Chamidu's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOURUSERNAME&show_icons=true&theme=tokyonight)
+![Chamidu's GitHub stats](https://github-readme-stats.vercel.app/api?username=bcpethum&show_icons=true&theme=tokyonight)
 
 ---
 
 ## 🔥 GitHub Streak
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=YOURUSERNAME&theme=tokyonight)
+![GitHub Streak](https://streak-stats.demolab.com/?user=bcpethum&theme=tokyonight)
 
 ---
 
 ## 🌍 Connect With Me
 
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/YOURUSERNAME)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/bcpethum)
 
 ---
 
-⭐ From [Chamidu Pethum](https://github.com/YOURUSERNAME)<h1 align="center">Hi 👋, I'm Chamidu Pethum</h1>
+⭐ From [Chamidu Pethum](https://github.com/bcpethum)<h1 align="center">Hi 👋, I'm Chamidu Pethum</h1>
 <h3 align="center">Software Engineering Undergraduate | Passionate Developer</h3>
 
 ---
